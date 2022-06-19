@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Bellefair&family=Chewy&family=Courgette&family=Imbue:opsz,wght@10..100,200&family=Indie+Flower&family=Josefin+Sans:ital,wght@0,200;0,300;0,400;1,400;1,500&family=Lobster&family=Lora:ital,wght@1,400;1,500;1,700&family=Mochiy+Pop+P+One&family=Oleo+Script&family=Orelega+One&family=PT+Serif&family=Poppins:wght@200&family=Roboto+Condensed:wght@300&family=Rosarivo:ital@1&family=Source+Sans+Pro:wght@200&family=Varela&family=Vollkorn:ital@1&display=swap");
+body {
+  background-color: antiquewhite;
+  font-family: "Lily Script One", cursive;
+}
+h1 {
+  font-size: 60px;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.buttonsDiv {
+  display: flex;
+  flex-direction: row;
+}
+.buttonsDiv button {
+  font-size: 20px;
+  padding: 10px;
+  margin-left: 10px;
+}
